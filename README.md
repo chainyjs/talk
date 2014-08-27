@@ -1,4 +1,4 @@
-# CHAINYJS TALK
+# ChainyJS Talk
 
 ChainyJS; a data pipeline for JavaScript, it's like jQuery but for data.
 http://chainyjs.org
@@ -12,13 +12,14 @@ If you like jQuery's API, but don't like the bloat.
 If you believe in MicroJS, but hate the fragmentation.
 
 
-## Why listen to me?
-Created a bunch of stuff
+## What qualifies me to talk about this?
+Created a bunch of stuff. Full-time node since 2010.
 
 - @balupton
 - http://balupton.com
-- http://bevry.me
-- https://ti.to/bevry/nodefailsafe
+- [Bevry: open-company and community](http://bevry.me)
+- [DocPad: Static Site Generator](http://docpad.org)
+- [Node Fail Safe Training](https://ti.to/bevry/nodefailsafe)
 
 
 ## What's the problem?
@@ -59,5 +60,5 @@ A walkthrough of the geojson example.
 ## Closing
 
 - @balupton
-- https://twitter.com/balupton
-- https://ti.to/bevry/nodefailsafe
+- [Twitter](https://twitter.com/balupton)
+- [Node Fail Safe Training](https://ti.to/bevry/nodefailsafe)
