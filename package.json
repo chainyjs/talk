@@ -1,0 +1,28 @@
+{
+  "name": "talk",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chainy": "^1.0.1",
+    "chainy-core": "^1.1.0",
+    "chainy-plugin-autoinstall": "^1.0.0",
+    "chainy-plugin-autoload": "^1.0.0",
+    "chainy-plugin-count": "^1.0.0",
+    "chainy-plugin-each": "^1.0.0",
+    "chainy-plugin-feed": "^1.0.0",
+    "chainy-plugin-flatten": "^1.0.0",
+    "chainy-plugin-geocode": "^1.0.0",
+    "chainy-plugin-hasfield": "^1.0.0",
+    "chainy-plugin-log": "^1.0.2",
+    "chainy-plugin-map": "^1.0.2",
+    "chainy-plugin-pipe": "^1.0.1",
+    "chainy-plugin-set": "^1.0.2",
+    "chainy-plugin-uniq": "^1.0.0"
+  }
+}
